@@ -1,6 +1,5 @@
 # to_do_list_app
-
-A new Flutter project.
+This project is todo app.
 
 ## Getting Started
 
