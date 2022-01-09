@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'ToDoList',
+          'unko',
           style: TextStyle(
             fontWeight: FontWeight.w500,
             fontSize: 32,
